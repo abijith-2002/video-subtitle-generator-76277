@@ -1,1 +1,3 @@
-# video-subtitle-generator-76277
+# Project Repository
+
+This is the initial README file for the project.
